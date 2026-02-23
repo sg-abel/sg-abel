@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Abel Salazar🤓</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h3 align="center">A passionate developer from México</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sg-abel" alt="sg-abel" /></a> </p>
 
-- 🔭 I’m currently working on **project in Javascript**
+- 🔭 I’m currently working on improving my problem-solving and coding best practices through hands-on projects.
 
-- 🌱 I’m currently learning **Javascript, CSS, Html,React**
+- 🌱 I’m currently learning software development concepts with a focus on clean code and good practices.
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on beginner to intermediate programming projects to gain real-world experience and improve my development skills. 
 
-- 🤝 I’m looking for help with **Javascript, CSS, Html**
+- 🤝 I’m looking for help with improving my coding skills and understanding best development practices.
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/sg-abel/sites](https://app.netlify.com/teams/sg-abel/sites)
+- 👨‍💻 All of my projects are available at https://app.netlify.com/teams/sg-abel/projects.
 
-- 📝 I regularly write articles on [...](...)
+- 📝 I regularly write articles on https://www.linkedin.com/in/abel-salazar-galindo/. 
 
-- 💬 Ask me about **Javascript, CSS, Html**
+- 💬 Ask me about my learning journey in software development and programming fundamentals || Ask me about transitioning into a software development career and continuous learning.
 
-- 📫 How to reach me **salazargalindoabel@gmail.com**
+- 📫 How to reach me salazargalindoabel@gmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abel-salazar-galindo-a9482b123/](https://www.linkedin.com/in/abel-salazar-galindo-a9482b123/)
+- 📄 Know about me  https://blackcatweb.netlify.app/
 
-- ⚡ Fun fact **I am responsible, I am self-taught, I am committed to my goals and I love to learn new things.**
+- ⚡ Fun fact I’m a responsible, self-taught learner who’s committed to my goals and loves learning new things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
